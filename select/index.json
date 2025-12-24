@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "空白の花",
+  "base_artist": "≠ME",
+  "createdAt": "2025-12-24T01:40:05.558518Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "空白の花",
+      "artist": "≠ME",
+      "has_synced": false,
+      "path": "select/01_空白の花_≠ME.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "空白の花",
+      "artist": "≠ME",
+      "has_synced": false,
+      "path": "select/pl_01_空白の花_≠ME.txt"
+    }
+  ]
+}
